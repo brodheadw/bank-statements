@@ -1,15 +1,12 @@
 # bank-statements
 
-**Bank Statements → Clean Excel Sheets, Automatically**
-
 ## Overview
-**Bank-Statements** is a personal finance tool designed to simplify the painful task of logging, organizing, and analyzing your bank records.
 
-In an increasingly financially complex world, maintaining consistent logs is critical. Whether it's tracking income from a side hustle, managing shared savings with a spouse, or supervising spending across multiple accounts, there are countless moving parts to stay on top of. Having juggled multiple jobs since the age of 16, I've struggled firsthand to wrangle the mountain of statements arriving month after month.
+In an increasingly financially complex world, maintaining consistent logs is crucial. Whether it's a side hustle, a spouse, or a subscription, there are many moving parts to track. Having juggled multiple jobs since the age of 16, I've experienced firsthand how overwhelming it can be to manage the mountain of bank statements piling up month after month.
 
-Dealing with the massive, metaphysical megastructure that is our economy can be overwhelming, so it is important to have your own finances down to a science for as long as we live in a numerical world.
+This tool aims to track your personal finances, allowing you to collect valuable data on your spending habits and patterns. It is designed to be compatible with multiple accounts and flexible enough to grow alongside your financial complexity.
 
-This tool aims to make personal financial maintenance effortless: you simply drop your emailed bank statements into the application, and it automatically parses, categorizes, and logs them into a clean, standardized Excel spreadsheet.
+Dealing with the massive, metaphysical megastructure that is our economy can be daunting, but having your own finances down to a science is one of the best defenses for as long as we live in a numerical world.
 
 ## Core Features
 

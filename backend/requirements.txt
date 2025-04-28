@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+PyMuPDF
+openpyxl
+pandas
+langchain
+celery
+redis
+python-multipart
+aiofiles
