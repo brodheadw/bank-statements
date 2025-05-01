@@ -15,3 +15,13 @@ services:
     image: redis:alpine
     ports:
       - "6379:6379"
+
+  celery:
+    build: ./backend
+    command: celery -A workers.tasks worker --loglevel=info
+    volumes:
+      - ./backend:/app
+      - ./backend/uploads:/app/uploads
+    depends_on:
+      - redis
+      
